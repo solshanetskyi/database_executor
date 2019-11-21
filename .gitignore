@@ -1,0 +1,10 @@
+.idea/.gitignore
+.idea/autoinvoice_cron_validator.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
+__pycache__/cron_validator.cpython-37.pyc
+credentials/__pycache__/__init__.cpython-37.pyc
+queries/__pycache__/__init__.cpython-37.pyc
+/credentials.json
