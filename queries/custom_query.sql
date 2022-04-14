@@ -1,2 +1,2 @@
-select * from system
+select systemid from `system`
 limit 1
